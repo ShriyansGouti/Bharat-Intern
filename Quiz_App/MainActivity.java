@@ -1,5 +1,4 @@
 package com.example.quiz_app;
-
 import android.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import android.graphics.Color;
